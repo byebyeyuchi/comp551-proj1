@@ -1,0 +1,431 @@
+,0
+open_covid_region_code,0
+country_region_code,0
+country_region,0
+sub_region_1,0
+sub_region_1_code,0
+sub_region_2,608
+sub_region_2_code,608
+date,0
+symptom:Abdominal obesity,608
+symptom:Abdominal pain,608
+symptom:Acne,608
+symptom:Actinic keratosis,608
+symptom:Acute bronchitis,608
+symptom:Adrenal crisis,346
+symptom:Ageusia,370
+symptom:Alcoholism,608
+symptom:Allergic conjunctivitis,279
+symptom:Allergy,608
+symptom:Amblyopia,570
+symptom:Amenorrhea,387
+symptom:Amnesia,608
+symptom:Anal fissure,608
+symptom:Anaphylaxis,608
+symptom:Anemia,608
+symptom:Angina pectoris,608
+symptom:Angioedema,608
+symptom:Angular cheilitis,202
+symptom:Anosmia,373
+symptom:Anxiety,608
+symptom:Aphasia,608
+symptom:Aphonia,141
+symptom:Apnea,608
+symptom:Arthralgia,608
+symptom:Arthritis,608
+symptom:Ascites,571
+symptom:Asperger syndrome,608
+symptom:Asphyxia,384
+symptom:Asthma,608
+symptom:Astigmatism,608
+symptom:Ataxia,608
+symptom:Atheroma,388
+symptom:Attention deficit hyperactivity disorder,608
+symptom:Auditory hallucination,261
+symptom:Autoimmune disease,608
+symptom:Avoidant personality disorder,608
+symptom:Back pain,608
+symptom:Bacterial vaginosis,608
+symptom:Balance disorder,382
+symptom:Beau's lines,343
+symptom:Bell's palsy,608
+symptom:Biliary colic,608
+symptom:Binge eating,608
+symptom:Bleeding,608
+symptom:Bleeding on probing,459
+symptom:Blepharospasm,608
+symptom:Bloating,608
+symptom:Blood in stool,608
+symptom:Blurred vision,608
+symptom:Blushing,608
+symptom:Boil,608
+symptom:Bone fracture,608
+symptom:Bone tumor,608
+symptom:Bowel obstruction,608
+symptom:Bradycardia,608
+symptom:Braxton Hicks contractions,608
+symptom:Breakthrough bleeding,608
+symptom:Breast pain,608
+symptom:Bronchitis,608
+symptom:Bruise,608
+symptom:Bruxism,608
+symptom:Bunion,608
+symptom:Burn,608
+symptom:Burning Chest Pain,237
+symptom:Burning mouth syndrome,458
+symptom:Candidiasis,608
+symptom:Canker sore,608
+symptom:Cardiac arrest,608
+symptom:Carpal tunnel syndrome,608
+symptom:Cataplexy,387
+symptom:Cataract,608
+symptom:Chancre,494
+symptom:Cheilitis,608
+symptom:Chest pain,608
+symptom:Chills,608
+symptom:Chorea,386
+symptom:Chronic pain,608
+symptom:Cirrhosis,608
+symptom:Cleft lip and cleft palate,382
+symptom:Clouding of consciousness,259
+symptom:Cluster headache,608
+symptom:Colitis,608
+symptom:Coma,608
+symptom:Common cold,608
+symptom:Compulsive behavior,608
+symptom:Compulsive hoarding,571
+symptom:Confusion,608
+symptom:Congenital heart defect,608
+symptom:Conjunctivitis,608
+symptom:Constipation,608
+symptom:Convulsion,608
+symptom:Cough,608
+symptom:Crackles,186
+symptom:Cramp,608
+symptom:Crepitus,286
+symptom:Croup,436
+symptom:Cyanosis,367
+symptom:Dandruff,608
+symptom:Delayed onset muscle soreness,608
+symptom:Dementia,608
+symptom:Dentin hypersensitivity,608
+symptom:Depersonalization,295
+symptom:Depression,608
+symptom:Dermatitis,608
+symptom:Desquamation,608
+symptom:Developmental disability,458
+symptom:Diabetes,608
+symptom:Diabetic ketoacidosis,608
+symptom:Diarrhea,608
+symptom:Dizziness,608
+symptom:Dry eye syndrome,608
+symptom:Dysautonomia,190
+symptom:Dysgeusia,387
+symptom:Dysmenorrhea,608
+symptom:Dyspareunia,386
+symptom:Dysphagia,608
+symptom:Dysphoria,608
+symptom:Dystonia,419
+symptom:Dysuria,418
+symptom:Ear pain,608
+symptom:Eczema,608
+symptom:Edema,608
+symptom:Encephalitis,608
+symptom:Encephalopathy,608
+symptom:Epidermoid cyst,608
+symptom:Epilepsy,608
+symptom:Epiphora,292
+symptom:Erectile dysfunction,608
+symptom:Erythema,608
+symptom:Erythema chronicum migrans,608
+symptom:Esophagitis,346
+symptom:Excessive daytime sleepiness,608
+symptom:Eye pain,418
+symptom:Eye strain,608
+symptom:Facial nerve paralysis,608
+symptom:Facial swelling,387
+symptom:Fasciculation,608
+symptom:Fatigue,608
+symptom:Fatty liver disease,608
+symptom:Fecal incontinence,495
+symptom:Fever,608
+symptom:Fibrillation,608
+symptom:Fibrocystic breast changes,386
+symptom:Fibromyalgia,608
+symptom:Flatulence,608
+symptom:Floater,608
+symptom:Focal seizure,382
+symptom:Folate deficiency,608
+symptom:Food craving,608
+symptom:Food intolerance,608
+symptom:Frequent urination,608
+symptom:Gastroesophageal reflux disease,608
+symptom:Gastroparesis,384
+symptom:Generalized anxiety disorder,608
+symptom:Generalized tonic–clonic seizure,570
+symptom:Genital wart,608
+symptom:Gingival recession,307
+symptom:Gingivitis,608
+symptom:Globus pharyngis,390
+symptom:Goitre,456
+symptom:Gout,608
+symptom:Grandiosity,419
+symptom:Granuloma,457
+symptom:Guilt,608
+symptom:Hair loss,608
+symptom:Halitosis,608
+symptom:Hay fever,608
+symptom:Headache,608
+symptom:Heart arrhythmia,608
+symptom:Heart murmur,495
+symptom:Heartburn,608
+symptom:Hematochezia,608
+symptom:Hematoma,608
+symptom:Hematuria,608
+symptom:Hemolysis,205
+symptom:Hemoptysis,353
+symptom:Hemorrhoids,608
+symptom:Hepatic encephalopathy,368
+symptom:Hepatitis,608
+symptom:Hepatotoxicity,347
+symptom:Hiccup,608
+symptom:Hip pain,608
+symptom:Hives,608
+symptom:Hot flash,608
+symptom:Hydrocephalus,387
+symptom:Hypercalcaemia,385
+symptom:Hypercapnia,362
+symptom:Hypercholesterolemia,608
+symptom:Hyperemesis gravidarum,351
+symptom:Hyperglycemia,608
+symptom:Hyperkalemia,608
+symptom:Hyperlipidemia,500
+symptom:Hypermobility,608
+symptom:Hyperpigmentation,608
+symptom:Hypersomnia,329
+symptom:Hypertension,608
+symptom:Hyperthermia,608
+symptom:Hyperthyroidism,608
+symptom:Hypertriglyceridemia,608
+symptom:Hypertrophy,608
+symptom:Hyperventilation,351
+symptom:Hypocalcaemia,422
+symptom:Hypochondriasis,355
+symptom:Hypoglycemia,608
+symptom:Hypogonadism,608
+symptom:Hypokalemia,608
+symptom:Hypomania,345
+symptom:Hyponatremia,608
+symptom:Hypotension,608
+symptom:Hypothyroidism,608
+symptom:Hypoxemia,608
+symptom:Hypoxia,608
+symptom:Impetigo,532
+symptom:Implantation bleeding,608
+symptom:Impulsivity,608
+symptom:Indigestion,608
+symptom:Infection,608
+symptom:Inflammation,608
+symptom:Inflammatory bowel disease,608
+symptom:Ingrown hair,608
+symptom:Insomnia,608
+symptom:Insulin resistance,608
+symptom:Intermenstrual bleeding,570
+symptom:Intracranial pressure,608
+symptom:Iron deficiency,608
+symptom:Irregular menstruation,608
+symptom:Itch,608
+symptom:Jaundice,608
+symptom:Kidney failure,608
+symptom:Kidney stone,608
+symptom:Knee Pain,608
+symptom:Kyphosis,423
+symptom:Lactose intolerance,608
+symptom:Laryngitis,192
+symptom:Leg cramps,608
+symptom:Lesion,608
+symptom:Leukorrhea,458
+symptom:Lightheadedness,608
+symptom:Low back pain,608
+symptom:Low-grade fever,608
+symptom:Lymphedema,608
+symptom:Major depressive disorder,608
+symptom:Malabsorption,458
+symptom:Male infertility,385
+symptom:Manic Disorder,608
+symptom:Melasma,608
+symptom:Melena,608
+symptom:Meningitis,608
+symptom:Menorrhagia,608
+symptom:Middle back pain,608
+symptom:Migraine,608
+symptom:Milium,608
+symptom:Mitral insufficiency,393
+symptom:Mood disorder,608
+symptom:Mood swing,608
+symptom:Morning sickness,608
+symptom:Motion sickness,608
+symptom:Mouth ulcer,608
+symptom:Muscle atrophy,347
+symptom:Muscle weakness,608
+symptom:Myalgia,608
+symptom:Mydriasis,608
+symptom:Myocardial infarction,608
+symptom:Myoclonus,218
+symptom:Nasal congestion,608
+symptom:Nasal polyp,286
+symptom:Nausea,608
+symptom:Neck mass,384
+symptom:Neck pain,608
+symptom:Neonatal jaundice,608
+symptom:Nerve injury,608
+symptom:Neuralgia,608
+symptom:Neutropenia,386
+symptom:Night sweats,608
+symptom:Night terror,353
+symptom:Nocturnal enuresis,382
+symptom:Nodule,608
+symptom:Nosebleed,608
+symptom:Nystagmus,347
+symptom:Obesity,608
+symptom:Onychorrhexis,347
+symptom:Oral candidiasis,608
+symptom:Orthostatic hypotension,608
+symptom:Osteopenia,498
+symptom:Osteophyte,422
+symptom:Osteoporosis,608
+symptom:Otitis,608
+symptom:Otitis externa,608
+symptom:Otitis media,608
+symptom:Pain,608
+symptom:Palpitations,608
+symptom:Panic attack,608
+symptom:Papule,381
+symptom:Paranoia,533
+symptom:Paresthesia,608
+symptom:Pelvic inflammatory disease,608
+symptom:Pericarditis,315
+symptom:Periodontal disease,608
+symptom:Periorbital puffiness,608
+symptom:Peripheral neuropathy,608
+symptom:Perspiration,608
+symptom:Petechia,346
+symptom:Phlegm,608
+symptom:Photodermatitis,435
+symptom:Photophobia,317
+symptom:Photopsia,533
+symptom:Pleural effusion,608
+symptom:Pleurisy,570
+symptom:Pneumonia,608
+symptom:Podalgia,608
+symptom:Polycythemia,533
+symptom:Polydipsia,253
+symptom:Polyneuropathy,608
+symptom:Polyuria,389
+symptom:Poor posture,608
+symptom:Post-nasal drip,608
+symptom:Postural orthostatic tachycardia syndrome,570
+symptom:Prediabetes,608
+symptom:Proteinuria,608
+symptom:Pruritus ani,608
+symptom:Psychosis,608
+symptom:Ptosis,327
+symptom:Pulmonary edema,270
+symptom:Pulmonary hypertension,608
+symptom:Purpura,608
+symptom:Pus,608
+symptom:Pyelonephritis,608
+symptom:Radiculopathy,608
+symptom:Rectal pain,202
+symptom:Rectal prolapse,382
+symptom:Red eye,608
+symptom:Renal colic,533
+symptom:Restless legs syndrome,608
+symptom:Rheum,363
+symptom:Rhinitis,608
+symptom:Rhinorrhea,608
+symptom:Rosacea,608
+symptom:Round ligament pain,457
+symptom:Rumination,242
+symptom:Scar,608
+symptom:Sciatica,608
+symptom:Scoliosis,608
+symptom:Seborrheic dermatitis,608
+symptom:Self-harm,608
+symptom:Sensitivity to sound,317
+symptom:Sexual dysfunction,608
+symptom:Shallow breathing,206
+symptom:Sharp pain,608
+symptom:Shivering,608
+symptom:Shortness of breath,608
+symptom:Shyness,608
+symptom:Sinusitis,608
+symptom:Skin condition,608
+symptom:Skin rash,608
+symptom:Skin tag,608
+symptom:Skin ulcer,608
+symptom:Sleep apnea,608
+symptom:Sleep deprivation,608
+symptom:Sleep disorder,608
+symptom:Snoring,608
+symptom:Sore throat,608
+symptom:Spasticity,360
+symptom:Splenomegaly,420
+symptom:Sputum,462
+symptom:Stomach rumble,381
+symptom:Strabismus,608
+symptom:Stretch marks,608
+symptom:Stridor,241
+symptom:Stroke,608
+symptom:Stuttering,608
+symptom:Subdural hematoma,386
+symptom:Suicidal ideation,608
+symptom:Swelling,608
+symptom:Swollen feet,608
+symptom:Swollen lymph nodes,608
+symptom:Syncope,608
+symptom:Tachycardia,608
+symptom:Tachypnea,357
+symptom:Telangiectasia,608
+symptom:Tenderness,382
+symptom:Testicular pain,608
+symptom:Throat irritation,608
+symptom:Thrombocytopenia,608
+symptom:Thyroid nodule,421
+symptom:Tic,608
+symptom:Tinnitus,608
+symptom:Tonsillitis,608
+symptom:Toothache,608
+symptom:Tremor,608
+symptom:Trichoptilosis,385
+symptom:Tumor,608
+symptom:Type 2 diabetes,608
+symptom:Unconsciousness,608
+symptom:Underweight,608
+symptom:Upper respiratory tract infection,463
+symptom:Urethritis,422
+symptom:Urinary incontinence,608
+symptom:Urinary tract infection,608
+symptom:Urinary urgency,218
+symptom:Uterine contraction,608
+symptom:Vaginal bleeding,608
+symptom:Vaginal discharge,608
+symptom:Vaginitis,608
+symptom:Varicose veins,608
+symptom:Vasculitis,535
+symptom:Ventricular fibrillation,189
+symptom:Ventricular tachycardia,608
+symptom:Vertigo,608
+symptom:Viral pneumonia,218
+symptom:Visual acuity,608
+symptom:Vomiting,608
+symptom:Wart,608
+symptom:Water retention,608
+symptom:Weakness,608
+symptom:Weight gain,608
+symptom:Wheeze,608
+symptom:Xeroderma,608
+symptom:Xerostomia,608
+symptom:Yawn,533
+symptom:hyperhidrosis,608
+symptom:pancreatitis,608
