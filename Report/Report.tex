@@ -106,9 +106,9 @@ Additionally, feature selection was explored and the validation losses of the mo
     \hline
     & region KNN & region Decision Tree & time KNN & time Decision Tree & PCA KNN & PCA Decision Tree & PCA Linear Regression & mobility KNN \\
     \hline
-    hyperparameter (k or d) & 15    & 4     & 46    & 8     & 23    & 6     & -     & 3  \\
+    hyperparameter (k or d) & 15    & 4     & 46    & 8     & 23    & 6     & -     & 15  \\
     \hline
-    validation loss (MSE)   & 5077  & 5906  & 1828  & 856   & 2553  & 4098  & 2332  & 2089 \\
+    validation loss (MSE)   & 5077  & 5906  & 1828  & 856   & 2553  & 4098  & 2332  & 2478 \\
     \hline
 \end{tabular}
 }
@@ -127,7 +127,7 @@ Additionally, feature selection was explored and the validation losses of the mo
 In general, Decision Tree models resulted in low validation loss. We reason that, firstly, KNN suffers from the curse of dimensionality due to over 20 symptoms as features. Second, KNN has very limited capability of dealing with missing values, whereas Decision Tree models are not so much affected by missing values. Last, the regional normalization of the raw dataset, even after our demeaning processing, affects the performance of our split by region model; Decision Tree is less sensitive to such bias of input.
 
 \subsection{Sample Set Comparison}
-Among the three test-train sets generated from the search trend dataset, the 5-component PCA set and the split-by-region did achieve a higher KNN model performance than the mobility dataset, which is considered a baseline for comparison. Therefore, we recommend the split-by-time approach for test-train set splitting. 
+Among all the search trend models, only the 5-component PCA KNN and the split-by-region KNN achieve a worse performance than the mobility KNN, which is considered a baseline for comparison. Therefore, we recommend the symptoms search trend dataset as a predictor for COVID-19 hospitalization, especially with train-test split by time.
 
 \subsection{Symptom Search Trends and Mobility Comparison}
 The the KNN model trained on the split-by-time symptom search trends resulted in less loss than that of the mobility trends, which affirms the symptom search trends as an adequate predictor for hospitalization case numbers. We propose that the correlation levels of the datasets to the target datasets might be due to time delay. According to the World Health Organization, COVID-19 symptoms usually appear around 7 to 14 days after contraction. We postulate that a rise in population mobility might cause a rise in hospitalized patients in a time range longer than that of what symptoms search trend would, causing search trends to correlate with hospitalization data more than the population mobility trend when trained in a split-by-time method.
